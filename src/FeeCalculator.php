@@ -8,6 +8,7 @@ use PragmaGoTech\Interview\Model\LoanProposal;
 
 interface FeeCalculator
 {
+
     /**
      * @return float The calculated total fee.
      */
